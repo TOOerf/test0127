@@ -5,6 +5,7 @@ int main()
    int a,b,sum;
    sum=add(a,b);
   printf("the sum of a&b is: %d\n",sum);
+   printf("over\n");
   
   return 0;
 }
